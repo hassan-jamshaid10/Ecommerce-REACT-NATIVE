@@ -25,6 +25,7 @@ export default function HomeScreen() {
         <ThemedText>
           Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
           Press{' '}
+          <ThemedText>Hey nigga im here</ThemedText>
           <ThemedText type="defaultSemiBold">
             {Platform.select({
               ios: 'cmd + d',
